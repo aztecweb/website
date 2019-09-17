@@ -1,0 +1,6 @@
+{
+  "/mix.js": "/mix.js",
+  "/../themes/schultz/dist/app_bundle.css": "/../themes/schultz/dist/app_bundle.css",
+  "../themes/schultz/dist/jquery.min.js": "../themes/schultz/dist/jquery.min.js",
+  "../themes/schultz/dist/app_bundle.js": "../themes/schultz/dist/app_bundle.js"
+}
